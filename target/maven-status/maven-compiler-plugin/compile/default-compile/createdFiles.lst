@@ -1,0 +1,15 @@
+conversor\dev\com\convertidor\Repository\ConvertRepository.class
+conversor\dev\com\convertidor\Service\ConvertServiceImpl.class
+conversor\dev\com\convertidor\Service\ConvertService.class
+conversor\dev\com\convertidor\Service\IndicatorService.class
+conversor\dev\com\convertidor\Repository\IndicatorUTM.class
+conversor\dev\com\convertidor\Entity\Convert.class
+conversor\dev\com\convertidor\ConvertidorApplication.class
+conversor\dev\com\convertidor\Service\IndicatorServiceImpl.class
+conversor\dev\com\convertidor\Entity\USD.class
+conversor\dev\com\convertidor\Entity\Serie.class
+conversor\dev\com\convertidor\Controller\IndicatorController.class
+conversor\dev\com\convertidor\Entity\Indicator.class
+conversor\dev\com\convertidor\Entity\Rates.class
+conversor\dev\com\convertidor\Repository\IndicatorRepository.class
+conversor\dev\com\convertidor\Controller\ConvertController.class
